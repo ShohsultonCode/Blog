@@ -1,0 +1,12 @@
+.wrap{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+}
+#first{
+    border-right: 2px solid red;
+    border-bottom: 2px solid red;
+}
