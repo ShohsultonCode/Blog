@@ -32,6 +32,12 @@ JavaScript is a dynamic type language, means you don't need to specify type of t
          <h4 className='mt-5'>The event loop is the secret behind JavaScript’s asynchronous programming. JS executes all operations on a single thread, but using a few smart data structures, it gives us the illusion of multi-threading. Let’s take a look at what happens on the back-end.</h4>
          <h4>The call stack is responsible for keeping track of all the operations in line to be executed. Whenever a function is finished, it is popped from the stack.</h4>
          </div>
+
+         <div className="box-first mx-5 mt-5 py-5" id='first'>
+         <h2>Request, Response</h2>
+         <h4 className='mt-5'>Request is most important during build part of backend programming mainly sometimes you can use frontend with work of API something like that.</h4>
+         <h4>Response is shortly answer is Res you must know comback answer from backend</h4>
+         </div>
       </div>
    );
 };
